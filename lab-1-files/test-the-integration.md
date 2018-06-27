@@ -17,15 +17,16 @@
 ![](../.gitbook/assets/image%20%2817%29.png)
 
 * Click on the **`incoming`** folder.
+* Click on the **Upload** button.
 * Upload **Labs\Lab1\file1.xml** to the FTP server.
 
 ![](../.gitbook/assets/image%20%28172%29.png)
 
-* Click on the **`Submit`** button.
+* Click on the **`Submit`** button (green arrow).
 
 ![](../.gitbook/assets/image%20%2864%29.png)
 
-* Click on the **Back** arrow button.
+* Click on the **Back** (blue) arrow button.
 * Navigate to the **Outgoing** folder.
 * You should have a file with the current date as filename.
 
