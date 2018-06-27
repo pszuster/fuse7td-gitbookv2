@@ -15,8 +15,9 @@
 
 * Enter the following values:
 
-| File name expression | file1.xml |
+| Parameter | Value |
 | --- | --- | --- |
+| File name expression | file1.xml |
 | FTP directory | incoming |
 | Delete file after download | Yes |
 
