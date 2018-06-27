@@ -39,8 +39,9 @@
 
 * Enter the following values:
 
-| File name expression | ${date:now:yyyyMMdd}.xml |
+| Parameter | Value |
 | --- | --- |
+| File name expression | ${date:now:yyyyMMdd}.xml |
 | FTP directory | outgoing |
 
 * Click on the **`Next`** button.
