@@ -1,5 +1,5 @@
 {
-    "plugins": ["hints"]
+    "plugins": ["hints"],
     "variables": {
 	    "guid": "1234"
     }
