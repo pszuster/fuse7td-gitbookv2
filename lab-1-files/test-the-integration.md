@@ -4,8 +4,9 @@
 * Click on **`Advanced Login`**
 * Enter the following values:
 
-| Host | vsftpd.ftp.svc.cluster.local |
+| Parameter | Value |
 | --- | --- | --- | --- | --- |
+| Host | vsftpd.ftp.svc.cluster.local |
 | Port | 21 |
 | Username | admin |
 | Password | password |
