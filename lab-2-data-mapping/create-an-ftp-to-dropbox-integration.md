@@ -1,7 +1,7 @@
 # Create an FTP to Dropbox Integration
 
 * Click on the **`Integrations`** tab.
-* Click on the **`Create Integration`** ``button.
+* Click on the **`Create Integration`** button.
 
 ![](../.gitbook/assets/image%20%28166%29.png)
 
@@ -12,8 +12,9 @@
 * Select the only available action: **`Download`**
 * Enter the following values:
 
-| File Name Expression | customer.xml |
+| Parameter | Value |
 | --- | --- | --- |
+| File Name Expression | customer.xml |
 | FTP Directory | incoming |
 | Delete file after download | Yes |
 
