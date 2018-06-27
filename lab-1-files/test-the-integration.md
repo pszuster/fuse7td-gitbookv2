@@ -1,6 +1,6 @@
 # Test the integration
 
-* Go to **http://ftp.apps-&lt;GUID&gt;.generic.opentlc.com**
+* Go to **http://ftp.apps-{{ book.guid }}.generic.opentlc.com**
 * Click on **`Advanced Login`**
 * Enter the following values:
 

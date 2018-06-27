@@ -1,6 +1,6 @@
 # Check that DB table is empty
 
-* Go to **http://db.apps-&lt;GUID&gt;.generic.opentlc.com**
+* Go to **http://db.apps-{{ book.guid }}.generic.opentlc.com**
 * Login as:
   * **User**: admin@ignite.com
   * **Password**: password

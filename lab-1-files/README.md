@@ -1,6 +1,6 @@
 # Lab \#1 - Files
 
-* Open a web browser, and go to **https://fuse-ignite.apps-&lt;GUID&gt;.generic.opentlc.com**
+* Open a web browser, and go to **https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com**
 * Login as **admin/admin**
 
 ![login as admin/admin](../.gitbook/assets/image%20%2867%29.png)

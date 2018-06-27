@@ -1,6 +1,6 @@
 # Check DB Table
 
-* Go to **http://db.apps-&lt;GUID&gt;.generic.opentlc.com** again.
+* Go to **http://db.apps-{{ book.guid }}.generic.opentlc.com** again.
 * Login as 
   * **Username:** admin@ignite.com
   * **Password:** password

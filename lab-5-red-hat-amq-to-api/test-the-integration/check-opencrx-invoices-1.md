@@ -2,7 +2,7 @@
 
 
 
-* Go to **http://opencrx.apps-&lt;GUID&gt;.generic.opentlc.com/opencrx-core-CRX**
+* Go to **http://opencrx.apps-{{ book.guid }}.generic.opentlc.com/opencrx-core-CRX**
   * Login as:
     * **Username**: guest
     * **Password**: guest

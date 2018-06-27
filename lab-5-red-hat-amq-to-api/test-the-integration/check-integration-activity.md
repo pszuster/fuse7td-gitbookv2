@@ -1,6 +1,6 @@
 # Check Integration activity
 
-* Go to **https://fuse-ignite.apps-&lt;GUID&gt;.generic.opentlc.com/**
+* Go to **https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com/**
 * Click on the **`Integrations`** tab.
 * Click on the **`AMQtoAPI`** integration.
 * Click on the **`Activity`** tab.
