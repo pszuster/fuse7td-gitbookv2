@@ -1,6 +1,6 @@
 # Send an AMQ message.
 
-* Go to [https://fuseignite-{{](https://fuseignite-{{)** book.guid }}.generic.opentlc.com:8443/console/project/amq/overview**
+* Go to https://fuseignite-{{** book.guid }}.generic.opentlc.com:8443/console/project/amq/overview**
 * Login as **admin/admin.**
 * Click on the blue circle.
 
@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image %282%29.png)
 
-* Click on the `User `icon -&gt; `Preferences`**.**
+* Click on the `User`icon -&gt; `Preferences`**.**
 
 ![](../../.gitbook/assets/image %28151%29.png)
 
