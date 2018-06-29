@@ -15,7 +15,7 @@
 You can augment Fuse Ignite capabilities through the creation of extensions developed in Java or Camel routes.
 {% endhint %}
 
-* This imported extension was developed using Apache Camel, in JBoss Developer Studio, where there is a visual tool to do this.
+* This imported extension was developed using JBoss Developer Studio, where there is a visual tool to create Apache Camel routes.
 
 ![](../.gitbook/assets/image%20%2850%29.png)
 
