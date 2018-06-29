@@ -38,6 +38,7 @@
   * [HouseKeeping](lab-4-salesforce-to-api/housekeeping.md)
 * [Lab \#5 - Red Hat AMQ to API](lab-5-red-hat-amq-to-api/README.md)
   * [Create an Red Hat AMQ connection](lab-5-red-hat-amq-to-api/create-an-red-hat-amq-connection.md)
+  * [Import Split and Datashape Extensions](lab-5-red-hat-amq-to-api/import-split-and-datashape-extensions.md)
   * [Create an AMQ to API integration](lab-5-red-hat-amq-to-api/create-an-amq-to-api-integration.md)
   * [Test the integration](lab-5-red-hat-amq-to-api/test-the-integration/README.md)
     * [Check OpenCRX Invoices](lab-5-red-hat-amq-to-api/test-the-integration/check-opencrx-invoices.md)
