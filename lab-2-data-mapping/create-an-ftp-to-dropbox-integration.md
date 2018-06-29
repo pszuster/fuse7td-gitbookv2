@@ -58,7 +58,7 @@
 
 ![](../.gitbook/assets/image%20%2858%29.png)
 
-{% hint style="info" %}
+{% hint style="tip" %}
 Notice there is a warning icon next to the finish connection. This is because its input data shape is different than the start connector's output data shape.
 {% endhint %}
 
