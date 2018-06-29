@@ -1,10 +1,10 @@
-# Table of contents
+# Summary
 
 * [Welcome!](README.md)
 * [Intro](intro.md)
 * [Pre-Requisites](pre-requisites.md)
 * [RH Fuse Ignite Console Overview](rh-fuse-ignite-console-overview.md)
-* [Lab \#0 - Setup](untitled.md)
+* [Lab \#0 - Setup](lab0.md)
 * [Lab \#1 - Files](lab-1-files/README.md)
   * [Create FTP connection](lab-1-files/create-ftp-connection.md)
   * [Create FTP to FTP Integration](lab-1-files/untitled.md)
