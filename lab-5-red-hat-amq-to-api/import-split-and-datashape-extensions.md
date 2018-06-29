@@ -21,3 +21,14 @@
 
 ![](/.gitbook/assets/import-datashape-connector.png)
 
+* Click on the **Connections **tab.
+* Click on the **Create Connection** button.
+
+![](/.gitbook/assets/create-connection-datashape1.png)
+
+* Select **DataShape Connector**.
+* Enter **DataShape** as **Connection Name.**
+* Click on the **Create** button.
+
+![](/.gitbook/assets/create-datashape-connector2.png)
+
