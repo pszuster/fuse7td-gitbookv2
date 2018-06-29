@@ -32,7 +32,7 @@ More info about  swagger: [https://swagger.io/](https://swagger.io/)
 | **Connector Icon** | &lt;click on the **Choose File** button and select **Lab4\opencrx.gif&gt;** |
 | **Connector Name** | OpenCRX |
 | **Description** | OpenCRX API |
-| **Host** | [http://opencrx.opencrx.svc.cluster.local:8080](http://opencrx.opencrx.svc.cluster.local:8080) |
+| **Host** | http://opencrx.opencrx.svc.cluster.local|
 
 * Click on the **`Create API Connector`** button.
 
