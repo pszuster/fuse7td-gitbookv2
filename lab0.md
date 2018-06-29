@@ -4,9 +4,9 @@ description: In this lab you will setup the environment to start working on the 
 
 # Lab \#0 - Setup
 
-* Open a web browser, and go to https://fuse-ignite.apps-{{** book.guid }}.generic.opentlc.com**
+* Open a web browser, and go to https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com
 * Expand " **Advanced** ".
-* Click on the **Proceed to **https://fuse-ignite.apps-{{ **book.guid }}.generic.opentlc.com \(unsafe\)**
+* Click on the **Proceed to **https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com \(unsafe\)
 
 ![](/assets/sslwarning.png)
 
