@@ -15,11 +15,12 @@
 * Click on the **Connection** tab.
 * Enter the following values:
 
+| **Parameter** | Value |
+| --- | --- |
 | **Host** | ignitedb.db.svc.cluster.local |
-| --- | --- | --- | --- |
 | **Port** | 5432 |
 | **Username** | admin |
-| **Password** | admin |
+| **Password** | password |
 
 * Click on the **Save** button.
 
