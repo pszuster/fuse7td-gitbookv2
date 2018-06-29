@@ -1,6 +1,6 @@
 # Send an AMQ message.
 
-* Go to https://fuseignite-{{** book.guid }}.generic.opentlc.com:8443/console/project/amq/overview**
+* Go to https://fuseignite-{{ book.guid }}.generic.opentlc.com:8443/console/project/amq/overview
 * Login as **admin/admin.**
 * Click on the blue circle.
 
