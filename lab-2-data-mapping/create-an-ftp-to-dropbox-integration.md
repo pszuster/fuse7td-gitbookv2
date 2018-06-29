@@ -58,12 +58,12 @@
 
 ![](../.gitbook/assets/image%20%2858%29.png)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Notice there is a warning icon next to the finish connection. This is because its input data shape is different than the start connector's output data shape.
 {% endhint %}
 
 * Click on the warning icon in the finish connection.
-* Click on the ``**`Add a data mapping step`** link.
+* Click on the **`Add a data mapping step`** link.
 
 ![](../.gitbook/assets/image%20%28155%29.png)
 
