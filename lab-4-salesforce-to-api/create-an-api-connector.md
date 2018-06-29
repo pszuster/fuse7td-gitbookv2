@@ -11,7 +11,7 @@
 
 ![](../.gitbook/assets/image%20%2814%29.png)
 
-* Click on the  **`Next`** button**.**
+* Click on the  `Next` button.
 
 ![](../.gitbook/assets/image%20%2868%29.png)
 
@@ -34,9 +34,9 @@ More info about  swagger: [https://swagger.io/](https://swagger.io/)
 | **Description** | OpenCRX API |
 | **Host** | http://opencrx.opencrx.svc.cluster.local|
 
-* Click on the **`Create API Connector`** button.
+* Click on the `Create API Connector` button.
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](.gitbook/assets/Selection_273.png)
 
 
 
