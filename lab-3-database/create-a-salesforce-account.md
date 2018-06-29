@@ -46,7 +46,7 @@
 ![](../.gitbook/assets/image %281%29.png)
 
 * Click on the `Enable for Device Flow`checkbox.
-* Enter https://fuse-ignite.apps-{{ guid }}.generic.opentlc.com/api/v1/credentials/callback as **Callback URL.**
+* Enter [https://fuse-ignite.apps-{{](https://fuse-ignite.apps-{{) book.guid }}.generic.opentlc.com/api/v1/credentials/callback as **Callback URL.**
 
 ![](/assets/sf-oauth-settings.png)
 
