@@ -10,7 +10,7 @@
 
 ![](../../.gitbook/assets/image %282%29.png)
 
-* Click on the `User` icon, and `Preferences`**.**
+* Click on the `User `icon -&gt; `Preferences`**.**
 
 ![](../../.gitbook/assets/image %28151%29.png)
 
@@ -31,6 +31,13 @@
 ![](../../.gitbook/assets/image %2865%29.png)
 
 * Paste the contents of **Labs\lab5\invoices.xml** .
+
+```
+{% hint style='danger' %}
+Make sure to select invoiceS.xml and not invoice.xml
+{% endhint %}
+```
+
 * Make sure **Payload Format** is set to `XML`.
 * Click on the `Send message` button.
 
