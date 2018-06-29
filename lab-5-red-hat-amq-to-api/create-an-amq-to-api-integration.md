@@ -50,7 +50,7 @@
 
 ![](../.gitbook/assets/image %2878%29.png)
 
-* Hover over the **+** icon \(below **SPLIT**\) and click on the `Add a connection`**.**
+* Hover over the **+** icon \(below **SPLIT**\) and click on the `Add a `**`connection`.**
 * Select `DataShape` connector.
 * Select the `Datashape Endpoint` action.
 * Click on the `Next` button.
@@ -73,8 +73,9 @@
 
 * Perform the following mappings:
 
-| invoiceDescription | description |
+| Source | Target |
 | :--- | :--- |
+| invoiceDescription | description |
 | invoiceName | name |
 | @number | contractNumber |
 | totalAmountIncludingTax | totalAmountIncludingTax |
