@@ -1,16 +1,21 @@
 # Test the integration
 
+
+{% hint style='info' %}
+To test the integration, we are going to upload a file to the FTP Server, and then verify there is a new file in another folder with the name following the date expression defined earlier.
+{% endhint %}
+
 * Go to **http://ftp.apps-{{ book.guid }}.generic.opentlc.com**
 * Click on **`Advanced Login`**
 * Enter the following values:
 
 | Parameter | Value |
 | --- | --- | --- | --- | --- |
-| Host | vsftpd.ftp.svc.cluster.local |
-| Port | 21 |
-| Username | admin |
-| Password | password |
-| Passive mode | Checked |
+| **Host** | vsftpd.ftp.svc.cluster.local |
+| **Port** | 21 |
+| **Username** | admin |
+| **Password** | password |
+| **Passive mode** | Checked |
 
 * Click on the **`Login`** button.
 
