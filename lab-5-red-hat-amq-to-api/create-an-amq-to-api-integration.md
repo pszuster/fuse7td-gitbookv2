@@ -12,8 +12,9 @@
 
 * Enter the following values:
 
-| **Destination name** | invoices |
+| Parameter | Value |
 | --- | --- |
+| **Destination name** | invoices |
 | **Destination Type** | Queue |
 
 * Click on the `Next` button.
@@ -42,13 +43,18 @@
 * Select the `Split` step.
 * Enter the following values:
 
-| **Expression** | //invoice |
+| Parameter | Value |
 | --- | --- |
+| **Expression** | //invoice |
 | **Language** | xpath |
 
 * Click on the `Done` button.
 
 ![](../.gitbook/assets/image %2878%29.png)
+
+{% hint style='info' %}
+The Split step will separate the elements in the incoming list using the expression/language and execute each of the following steps in the integration for each element.
+{% endhint %}
 
 * Hover over the **+** icon \(below **SPLIT**\) and click on the `Add a `**`connection`.**
 * Select `DataShape` connector.
@@ -60,6 +66,10 @@
 * Click  on the `Done` button.
 
 ![](../.gitbook/assets/image %2888%29.png)
+
+{% hint style='info' %}
+Since we want to map the output of the Shapeless Split step to the API call, we need to define what is the output of the Spit step like. For that we use the imported "Datashape" extension.
+{% endhint %}
 
 * Click on the **warning** icon in the **finish** connector.
 * Click on the `Add a data mapping step` link.
