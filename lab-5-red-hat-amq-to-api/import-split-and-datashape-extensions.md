@@ -1,5 +1,11 @@
 # Import Split and Datashape Extensions
 
+{% hint style='info' %}
+Extensions are a way to expand Fuse Ignite's funcionality using both steps and connectios. They can be built using Java code, or Apache Camel routes (https://access.redhat.com/documentation/en-us/red_hat_fuse/7.0/html/integrating_applications_with_ignite/adding-customizations#adding-extensions).
+
+You can create your own extensions or use community created ones (https://github.com/syndesisio/syndesis-extensions). 
+{% endhint %}
+
 * Click on the **Customizations** tab.
 * Click on the **Extensions **tab.
 * Click on the **Import Extension** button.

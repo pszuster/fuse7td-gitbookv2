@@ -10,7 +10,7 @@
 
 |         **Parameter** |         **Value** |
 | :--- | :--- |
-| Broker URL | tcp://broker-amq-tcp.amq.svc.cluster.local:61616 |
+| **Broker URL** | tcp://broker-amq-tcp.amq.svc.cluster.local:61616 |
 | **User Name** | admin |
 | **Password** | password |
 | **Check Certificates** | Disable |

@@ -1,5 +1,9 @@
 # Create an API Connector
 
+{% hint style='info' %}
+The API Connector is a "meta-connector" that can be used to create multiple connectors. To do this, you only need a valid swagger document that properly describes the REST API.
+{% endhint %}
+
 * Click on the  **`Customizations`** tab.
 * Click on the **`Create API Connector`** button.
 

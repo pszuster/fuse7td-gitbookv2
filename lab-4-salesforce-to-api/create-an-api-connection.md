@@ -17,7 +17,7 @@
 
 ![](../.gitbook/assets/image %28170%29.png)
 
-* Enter `OpenCRX` as **Connection Name.**
+* Enter `OpenCRX` as  **Connection Name.**
 * Click on the `Create` button.
 
 
