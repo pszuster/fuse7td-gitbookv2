@@ -21,7 +21,7 @@
 | Name | IgniteApp-{{ book.guid }} |
 
 {% hint style='tip' %}
-If the app name is taken, append some string.
+If the app name is taken, append some string to app's name.
 {% endhint %}
 
 * Click on the **Create app** button.
