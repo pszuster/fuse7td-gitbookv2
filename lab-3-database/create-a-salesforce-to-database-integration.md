@@ -45,9 +45,15 @@
 
 ![](../.gitbook/assets/image %2894%29.png)
 
+{% hint style='info' %}
+Notice that for these connectors (Salesforce and Database) you didn't have to define their data shapes/structure because they are Shaped connectors. This means they are able to define the data type they use for input and/or output
+{% endhint %}
+
 * Click on the **Publish** button.
 * Enter **SalesforceToDB** as **Integration Name.**
 * Click on the **Publish** button.
 
 ![](../.gitbook/assets/image %28165%29.png)
+
+
 
