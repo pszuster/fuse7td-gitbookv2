@@ -14,8 +14,9 @@
 
 * Enter the following values:
 
-| API | DropBox API |
+| Parameter | Value |
 | :--- | :--- |
+| API | DropBox API |
 | Type of Access | App Folder |
 | Name | IgniteApp-{{ book.guid }} |
 
