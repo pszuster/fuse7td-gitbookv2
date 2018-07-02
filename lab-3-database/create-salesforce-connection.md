@@ -8,9 +8,10 @@
 
 * Enter the following values:
 
-| **Client ID** | _&lt;Paste here the Salesforce ConnectedApp Consumer Key&gt;_ |
+| Parameter| Value|
 | --- | --- |
-| **Client Secret** | _&lt;Paste here the Salesforce ConnectedApp Consumer Secret&gt;_ |
+| **Client ID** | &ltPaste here the Salesforce ConnectedApp Consumer Key&gt|
+| **Client Secret** | &ltPaste here the Salesforce ConnectedApp Consumer Secret&gt |
 
 * Click on the **`Save`** button.
 * Click on the **`Ok`** button.
