@@ -10,7 +10,7 @@
 ![](../.gitbook/assets/image %28103%29.png)
 
 * Paste the access token generated in dropbox.com
-* Enter "`IgniteApp`" as the **Client Identifier.**
+* Enter "`IgniteApp-{{ book.guid }}`" as the **Client Identifier.**
 * Click on the `Validate` button.
 * Click on the `Nex`**t** button.
 
