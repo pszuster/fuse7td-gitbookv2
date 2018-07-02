@@ -14,10 +14,10 @@ To test this integration, you are going to upload an XML file to the FTP server 
 
 | Host | vsftpd.ftp.svc.cluster.local |
 | --- | --- | --- | --- | --- |
-| Port | 21 |
-| Username | admin |
-| Password | password |
-| Passive mode | Checked |
+| **Port** | 21 |
+| **Username** | admin |
+| **Password** | password |
+| **Passive mode** | Checked |
 
 * Click on the **`Login`** button.
 
