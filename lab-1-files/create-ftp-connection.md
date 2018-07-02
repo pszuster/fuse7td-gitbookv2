@@ -11,7 +11,7 @@
 
 * Enter the following values:
 
-| Parameter | Value |
+| Parameter | **Value** |
 | :--- | :--- |
 | **Host** | vsftpd.ftp.svc.cluster.local |
 | **User Name** | admin |
