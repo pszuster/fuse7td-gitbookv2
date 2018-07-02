@@ -36,7 +36,7 @@
 * Click on the **`Done`** button.
 
 {% hint style='info' %}
-You need to define a data shape for Shapeless connectors (such as HTTP, AMQ, FTP, etc.) to be able to work with a data structure in following steps.
+You need to define a (input and/or output) data shape for Shapeless connectors (such as HTTP, AMQ, FTP, etc.) to be able to work with a data structure in following steps.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2866%29.png)
