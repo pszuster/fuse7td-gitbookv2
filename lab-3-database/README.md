@@ -6,7 +6,7 @@ In this lab you will listen for new Salesforce Contacts, and for each new onw in
 
 ## Start
 
-* Open a web browser, and go to [https://fuse-ignite.apps-{{](https://fuse-ignite.apps-{{)** book.guid }}.generic.opentlc.com**
+* Open a web browser, and go to https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com
 * Login as **admin/admin**
 
 ![login as admin/admin](../.gitbook/assets/image %2867%29.png)
