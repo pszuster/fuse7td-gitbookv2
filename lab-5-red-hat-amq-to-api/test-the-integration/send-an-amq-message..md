@@ -17,8 +17,9 @@
 * Click on the **ActiveMQ** tab.
 * Enter the following values:
 
-| **Activemq user name** | admin |
+| Parameter | Value |
 | --- | --- |
+| **Activemq user name** | admin |
 | **Activemq password** | password |
 
 * Click on the `Done` button.
