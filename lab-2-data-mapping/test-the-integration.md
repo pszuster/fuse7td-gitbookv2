@@ -1,6 +1,8 @@
 # Test the integration
 
-
+{% hint style='info' %}
+To test this integration, you are going to upload an XML file to the FTP server running on Openshift, and then verify there's a new JSON document in your Dropbox folder.
+{% endhint %}
 
 * Wait until the integration is published:
 
