@@ -8,7 +8,7 @@ In this lab you will periodically invoke an HTTP service to get an updated CSV d
 
 ## Start
 
-* Open a web browser, and go to [https://fuse-ignite.apps-{{](https://fuse-ignite.apps-{{)** book.guid }}.generic.opentlc.com**
+* Open a web browser, and go to https://fuse-ignite.apps-{{ book.guid }}.generic.opentlc.com
 * Login as **admin/admin**
 
 ![login as admin/admin](../.gitbook/assets/image %2867%29.png)
