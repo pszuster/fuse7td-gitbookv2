@@ -14,9 +14,9 @@
 
 | Parameter | Value |
 | --- | --- | --- |
-| File Name Expression | customer.xml |
-| FTP Directory | incoming |
-| Delete file after download | Yes |
+| **File Name Expression **| customer.xml |
+| **FTP Directory **| incoming |
+| **Delete file after download** | Yes |
 
 * Click on the **`Next`** button.
 
@@ -34,6 +34,10 @@
 
 * Enter **`Customer`** as **Data Type Name**.
 * Click on the **`Done`** button.
+
+{% hint style='info' %}
+You need to define a data shape for Shapeless connectors (such as HTTP, AMQ, FTP, etc.) to be able to work with a data structure in following steps.
+{% endhint %}
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
