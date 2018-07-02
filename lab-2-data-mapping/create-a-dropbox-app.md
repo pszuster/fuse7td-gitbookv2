@@ -19,6 +19,10 @@
 | Type of Access | App Folder |
 | Name | IgniteApp-{{ book.guid }} |
 
+{% hint style='tip' %}
+If the app name is taken, append some string.
+{% endhint %}
+
 * Click on the **Create app** button.
 
 ![](../.gitbook/assets/image %2848%29.png)
