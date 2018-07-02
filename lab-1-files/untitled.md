@@ -17,9 +17,9 @@
 
 | Parameter | Value |
 | --- | --- | --- |
-| File name expression | file1.xml |
-| FTP directory | incoming |
-| Delete file after download | Yes |
+| **File name expression** | file1.xml |
+| **FTP directory** | incoming |
+| **Delete file after download** | Yes |
 
 * Click on the **`Next`** button.
 
@@ -43,6 +43,10 @@
 | --- | --- |
 | File name expression | ${date:now:yyyyMMdd}.xml |
 | FTP directory | outgoing |
+
+{% hint style='tip' %}
+The expression between "${}" is a _simple language_ expression provided by Apache Camel. In this case you are using a "date" function, a "now" parameter and a date format "yyyMMdd" to calculate file name in runtime.
+{% endhint %}
 
 * Click on the **`Next`** button.
 
