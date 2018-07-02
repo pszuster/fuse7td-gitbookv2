@@ -9,11 +9,11 @@
 * Enter the following values:
 
 | Parameter | Value |
-| :--- | :--- |
-| First Name | Juan |
-| Last Name | Perez |
-| Email | jperez@mail.com |
-| Lead Source | Web |
+| :---: | ---: |
+|** First Name** | Juan |
+| **Last Name** | Perez |
+| **Email** | jperez@mail.com |
+| **Lead Source** | Web |
 
 * Click on the `Save` button.
 
