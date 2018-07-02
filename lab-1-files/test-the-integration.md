@@ -43,7 +43,7 @@ To test the integration, we are going to upload a file to the FTP Server, and th
 
 ![](../.gitbook/assets/image%20%28156%29.png)
 
-{% hint style="success" %}
+{% hint style="info" %}
 Notice that there's been one activity in the deployed integration
 {% endhint %}
 
@@ -51,7 +51,7 @@ Notice that there's been one activity in the deployed integration
 
 ![](../.gitbook/assets/image%20%28163%29.png)
 
-{% hint style="success" %}
+{% hint style="info" %}
 In the metrics section, you can see one message has been processed by the deployed integration.
 {% endhint %}
 
