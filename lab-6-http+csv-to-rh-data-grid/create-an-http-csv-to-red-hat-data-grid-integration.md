@@ -26,8 +26,9 @@
 * Select the only available action:  `Invoke URL`**.**
 * Enter the following values:
 
-| **URL Path** | store\_1 |
+| Parameter | Value |
 | --- | --- |
+| **URL Path** | store\_1 |
 | **Http Method** | PUT |
 
 * Click on the `Next` button.
