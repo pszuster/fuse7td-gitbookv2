@@ -7,7 +7,7 @@
 ![](../.gitbook/assets/image%20%28171%29.png)
 
 * Enter the following value:
-  * **Base URL:** [http://stockapp.stockapp.svc.cluster.local:8080/stock/](http://stockapp.stockapp.svc.cluster.local:8080/stock/store_1)
+  * **Base URL:** http://stockapp.stockapp.svc.cluster.local:8080/stock/
 * Click on the **`Validate`** button.
 * Click on the **`Next`** button.
 
