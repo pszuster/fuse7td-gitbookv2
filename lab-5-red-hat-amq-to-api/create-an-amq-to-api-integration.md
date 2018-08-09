@@ -100,8 +100,9 @@ Since we want to map the output of the Shapeless Split step to the API call, we 
 
 * Enter the following:
 
-| **Value** | true |
+| Parameter | Value |
 | --- | --- |
+| **Value** | true |
 | **Value Type** | Boolean |
 
 * Click on the `Save` button.
