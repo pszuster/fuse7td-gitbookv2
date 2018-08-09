@@ -61,7 +61,7 @@ The Split step will separate the elements in the incoming list using the express
 * Select the `Datashape Endpoint` action.
 * Click on the `Next` button.
 * Select `XML Instance` as the **Output Data Type.**
-* Copy and paste **Labs\lab5\invoice.xml** into the definition field.
+* Copy and paste the contents of **Labs\lab5\invoice.xml** into the definition field.
 * Enter`InvoiceXML` as the **Data Type Name.**
 * Click  on the `Done` button.
 
