@@ -19,7 +19,7 @@
 
 ![](../.gitbook/assets/image %28142%29.png)
 
-* Enter **" IginteDB"**  as **Connection Name.**
+* Enter **" IgniteDB"**  as **Connection Name.**
 * Click on the `Create` button.
 
 ![](../.gitbook/assets/image %2811%29.png)
